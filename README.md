@@ -19,6 +19,7 @@ Create the linear regression model and fit.
 ### Step5
 Predict the CO2 emission of a car where the weight is 2300kg, and the volume is 1300cm cube.
 ## Program:
+
 ```
 import pandas as pd
 from sklearn import linear_model
@@ -35,7 +36,7 @@ print("CO2 required is",regression.predict([[3300,1300]]))
 
 ### Insert your output
 
-![exp 10 maths](https://github.com/user-attachments/assets/188db8c5-ac93-4ace-a7cb-dbe5ea6f439d)
+![exp 10 maths](exp%2010.maths.png)
 
 
 
